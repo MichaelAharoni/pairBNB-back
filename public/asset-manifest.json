@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.79796a9d.css",
-    "main.js": "/static/js/main.8a5059ce.js",
+    "main.js": "/static/js/main.5720101a.js",
     "static/media/paris.jpg": "/static/media/paris.596b11818da289e3251c.jpg",
     "static/media/dubai.jpg": "/static/media/dubai.b1b9e210c81d4db910d3.jpg",
     "static/media/vegas.jpeg": "/static/media/vegas.70c7807dc9ae54f89792.jpeg",
@@ -62,9 +62,9 @@
     "static/media/user.svg": "/static/media/user.5fee3722a219c4cfc9d4451c040eeb2b.svg",
     "static/media/upload.svg": "/static/media/upload.fe2b6b9d52eb4f084f3acda394298ccf.svg",
     "static/media/smoking-allowed.svg": "/static/media/smoking-allowed.cdf25a57c2326121c7b4f64a775f39a6.svg",
+    "index.html": "/index.html",
     "static/media/hangers.svg": "/static/media/hangers.ac5919102ff06aec36f938655a52895e.svg",
     "static/media/first-aid-kit.svg": "/static/media/first-aid-kit.a471321fadf946008c86743918af8091.svg",
-    "index.html": "/index.html",
     "static/media/hamburger.svg": "/static/media/hamburger.b1807916be6841f653eada1be3cc100c.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.bdef2658330ca8e7cdc6.svg",
     "static/media/tv.svg": "/static/media/tv.441434c387d8fb9c6982d90f26feba65.svg",
@@ -74,10 +74,10 @@
     "static/media/up-arrow.svg": "/static/media/up-arrow.4e08f7190afbfea9839c2fa34d944e55.svg",
     "static/media/down-arrow.svg": "/static/media/down-arrow.8b92927f46b35999372141f04e163a5f.svg",
     "main.79796a9d.css.map": "/static/css/main.79796a9d.css.map",
-    "main.8a5059ce.js.map": "/static/js/main.8a5059ce.js.map"
+    "main.5720101a.js.map": "/static/js/main.5720101a.js.map"
   },
   "entrypoints": [
     "static/css/main.79796a9d.css",
-    "static/js/main.8a5059ce.js"
+    "static/js/main.5720101a.js"
   ]
 }
