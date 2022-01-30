@@ -1,13 +1,8 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/static/css/main.45d1cc8b.css",
     "main.js": "/static/js/main.ccc25607.js",
     "static/media/host.jpg": "/static/media/host.c7525a2f71236462aaba.jpg",
-=======
-    "main.css": "/static/css/main.9b5871e9.css",
-    "main.js": "/static/js/main.d82b6ad5.js",
->>>>>>> f18685bd68c79e47a756c0b88853c90c38ac4945
     "static/media/paris.jpg": "/static/media/paris.596b11818da289e3251c.jpg",
     "static/media/dubai.jpg": "/static/media/dubai.b1b9e210c81d4db910d3.jpg",
     "static/media/vegas.jpeg": "/static/media/vegas.70c7807dc9ae54f89792.jpeg",
