@@ -74,18 +74,10 @@
     "static/media/up-arrow.svg": "/static/media/up-arrow.4e08f7190afbfea9839c2fa34d944e55.svg",
     "static/media/down-arrow.svg": "/static/media/down-arrow.8b92927f46b35999372141f04e163a5f.svg",
     "main.79796a9d.css.map": "/static/css/main.79796a9d.css.map",
-<<<<<<< HEAD
-    "main.40f1c452.js.map": "/static/js/main.40f1c452.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.79796a9d.css",
-    "static/js/main.40f1c452.js"
-=======
     "main.8a5059ce.js.map": "/static/js/main.8a5059ce.js.map"
   },
   "entrypoints": [
     "static/css/main.79796a9d.css",
     "static/js/main.8a5059ce.js"
->>>>>>> a10eac6aaf100693c35a405ac21110efb6a06297
   ]
 }
