@@ -1,7 +1,7 @@
 {
 	"name": "server",
 	"version": "1.0.0",
-    "engines": { "node": "16.x" ,"npm":"8.x"},
+    "engines": { "node": "14.x" },
 	"description": "production ready server",
 	"main": "server.js",
 	"scripts": {
