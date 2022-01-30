@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.79796a9d.css",
-    "main.js": "/static/js/main.ac39b1f0.js",
+    "main.css": "/static/css/main.45d1cc8b.css",
+    "main.js": "/static/js/main.ccc25607.js",
+    "static/media/host.jpg": "/static/media/host.c7525a2f71236462aaba.jpg",
     "static/media/paris.jpg": "/static/media/paris.596b11818da289e3251c.jpg",
     "static/media/dubai.jpg": "/static/media/dubai.b1b9e210c81d4db910d3.jpg",
     "static/media/vegas.jpeg": "/static/media/vegas.70c7807dc9ae54f89792.jpeg",
     "static/media/circular.ttf": "/static/media/circular.f9f2be1512962ebe2bdc.ttf",
     "static/media/jerusalem.jpg": "/static/media/jerusalem.72909c2105333753dafd.jpg",
-    "static/media/host.jpg": "/static/media/host.db71e82e8796250ca3c5.jpg",
     "static/media/dishwasher.svg": "/static/media/dishwasher.bbc3fde4bb592309cf9846b37fbe7845.svg",
     "static/media/extra-pillows-and-blankets.svg": "/static/media/extra-pillows-and-blankets.a5e50e352598929653b81632faf007f5.svg",
     "static/media/pool.svg": "/static/media/pool.0502c61e55e6e4866ec862f8426a3bf5.svg",
@@ -73,11 +73,11 @@
     "static/media/tv.svg": "/static/media/tv.af5bea1aaaa6cfe68dcd58bd9e789eff.svg",
     "static/media/up-arrow.svg": "/static/media/up-arrow.4e08f7190afbfea9839c2fa34d944e55.svg",
     "static/media/down-arrow.svg": "/static/media/down-arrow.8b92927f46b35999372141f04e163a5f.svg",
-    "main.79796a9d.css.map": "/static/css/main.79796a9d.css.map",
-    "main.ac39b1f0.js.map": "/static/js/main.ac39b1f0.js.map"
+    "main.45d1cc8b.css.map": "/static/css/main.45d1cc8b.css.map",
+    "main.ccc25607.js.map": "/static/js/main.ccc25607.js.map"
   },
   "entrypoints": [
-    "static/css/main.79796a9d.css",
-    "static/js/main.ac39b1f0.js"
+    "static/css/main.45d1cc8b.css",
+    "static/js/main.ccc25607.js"
   ]
 }
