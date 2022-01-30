@@ -1,1 +1,1 @@
-Coding Academy - production ready server "# pair-bnb-back" 
+Coding Academy - production ready server 

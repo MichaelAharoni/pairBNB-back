@@ -15,7 +15,7 @@ function connectSockets(http, session) {
             console.log('Someone disconnected')
         })
 
-        socket.on('join-room', userId => {
+        socket.on('socket-by-userId', userId => {
             console.log('join-room', userId);
             if (socket.userRoom === userId) return;
             if (socket.userRoom) {
