@@ -1,0 +1,5 @@
+<svg width="inherit" height="inherit" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="352" height="32" x="80" y="96" fill="#FFF" class="ci-primary"/>
+  <rect width="352" height="32" x="80" y="240" fill="#FFF"/>
+  <rect width="352" height="32" x="80" y="384" fill="#FFF"/>
+</svg>
