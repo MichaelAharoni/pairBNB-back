@@ -27,7 +27,7 @@ function connectSockets(http, session) {
 
         socket.on('new-order', hostId => {
             const response = { id: hostId, msg: 'You got new order', }
-            socket.to(hostId).emit('recive-new-order', response);
+            socket.to(hostId).emit('receive-new-order', response);
         })
         socket.on('host-response', response => {
             response.msg = `Your order has been ${response.status}`
