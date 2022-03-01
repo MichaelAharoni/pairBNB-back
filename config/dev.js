@@ -1,3 +1,4 @@
-module.exports = {
-  dbURL: 'mongodb+srv://michael:1234@cluster0.oepag.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+import mongo from '../mongo-key.json'
+imodule.exports = {
+  dbURL: mongo.key,
 }
