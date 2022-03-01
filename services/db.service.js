@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient
 
 const config = require('../config')
-console.log('koren testing', config.dbURL)
+console.log('koren testing', config)
 
 module.exports = {
     getCollection
