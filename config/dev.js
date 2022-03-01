@@ -1,4 +1,4 @@
-import mongo from '../mongo-key.json'
-imodule.exports = {
+const mongo = require('../mongo-key.json')
+module.exports = {
   dbURL: mongo.key,
 }
