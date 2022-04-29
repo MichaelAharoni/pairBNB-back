@@ -1,25 +1,33 @@
 {
-  "short_name": "Pair BNB",
-  "name": "Pair BNB",
+  "theme_color": "#f6357c",
+  "background_color": "#656362",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "short_name": "pairbnb",
+  "name": "pairbnb",
+  "description": "best app ever",
   "icons": [
     {
-      "src": "../src/styles/svg/air-logo.svg",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "../src/styles/svg/air-logo.svg",
+      "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "../src/styles/svg/air-logo.svg",
+      "src": "android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
