@@ -1,10 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "xyz.appmaker.juldpu",
-      "sha256_cert_fingerprints": ["C7:89:B4:86:93:A8:74:13:42:65:7E:C1:01:28:C5:9E:3A:58:09:05:54:81:9B:CF:9C:BE:76:AF:48:BA:75:88"]
-    }
-  }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "pair.bnb",
+  "sha256_cert_fingerprints": ["50:BB:F4:D2:5C:0D:30:5C:9B:42:D9:54:19:28:8C:9B:E8:0E:55:C8:B1:76:DC:A3:B0:7F:9D:29:AB:04:A1:91"] }
+}]
